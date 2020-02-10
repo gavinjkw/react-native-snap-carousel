@@ -37,7 +37,6 @@
     "author": "Archriss <contact@archriss.com> (github.com/archriss)",
     "license": "BSD-3-Clause",
     "dependencies": {
-        "prop-types": "^15.6.1",
         "react-addons-shallow-compare": "15.6.2"
     },
     "peerDependencies": {
